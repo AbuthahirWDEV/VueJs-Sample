@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your app tested by AWS Console Vue.js App"/>
+  <HelloWorld msg="Welcome to Your app tested by terraform Vue.js App"/>
 </template>
 
 <script>
